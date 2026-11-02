@@ -1,0 +1,26 @@
+{
+  "name": "حساب من | مدیریت مالی شخصی",
+  "short_name": "حساب من",
+  "description": "مدیریت حساب‌های بانکی، هزینه‌ها و بدهی اشخاص",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090a12",
+  "theme_color": "#090a12",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
